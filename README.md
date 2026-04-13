@@ -326,18 +326,11 @@ believe:
 
 ## GitHub Activity
 
-<a href="https://github.com/iabdulwasey">
-  <img src="https://github-readme-stats.vercel.app/api?username=iabdulwasey&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&ring_color=8B5CF6" width="49%" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/iabdulwasey">
-  <img src="https://streak-stats.demolab.com?user=iabdulwasey&theme=transparent&hide_border=true&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=666666" width="49%" alt="GitHub Streak" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwasey&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&ring_color=8B5CF6)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwasey&hide_border=true&background=00000000&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=666666)
 
-<a href="https://github.com/iabdulwasey">
-  <img src="https://github-profile-trophy.vercel.app/?username=iabdulwasey&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies" />
-</a>
+![Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwasey&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
