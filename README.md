@@ -262,9 +262,13 @@ A full-stack observability platform I'm designing that sits at the convergence o
 
 ## Enterprise Products I've Led
 
-**MyXalytics** · **iControl** · **IntelliOps** · **MyXalytics FinOps** · **iObserve** · **DCEM** · **Telco Observability**
-
-<sub>Data Analytics · Business Observability · AIOps · Cloud FinOps · Full-Stack Observability · Data Center Energy · 5G Network</sub>
+![](https://img.shields.io/badge/MyXalytics-Data_Analytics-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/iControl-Business_Observability-3B82F6?style=for-the-badge)
+![](https://img.shields.io/badge/IntelliOps-AIOps_Suite-06B6D4?style=for-the-badge)
+![](https://img.shields.io/badge/MyXalytics_FinOps-Cloud_Cost_Mgmt-10B981?style=for-the-badge)
+![](https://img.shields.io/badge/iObserve-Full_Stack_Observability-F59E0B?style=for-the-badge)
+![](https://img.shields.io/badge/DCEM-Data_Center_Energy-EF4444?style=for-the-badge)
+![](https://img.shields.io/badge/Telco_Obs.-5G_Network-0A66C2?style=for-the-badge)
 
 </div>
 
