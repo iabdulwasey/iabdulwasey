@@ -262,9 +262,38 @@ A full-stack observability platform I'm designing that sits at the convergence o
 
 ## Enterprise Products I've Led
 
-`MyXalytics` Data Analytics &nbsp;│&nbsp; `iControl` Business Observability &nbsp;│&nbsp; `IntelliOps` AIOps Suite &nbsp;│&nbsp; `FinOps` Cloud Cost Mgmt
-
-`iObserve` Full-Stack Observability &nbsp;│&nbsp; `DCEM` Data Center Energy &nbsp;│&nbsp; `Telco Observability` 5G Network
+<table>
+<tr>
+<td align="center" width="14%">
+<b>MyXalytics</b><br/>
+<sub>Data Analytics<br/>& Reporting</sub>
+</td>
+<td align="center" width="14%">
+<b>iControl</b><br/>
+<sub>Business Flow<br/>Observability</sub>
+</td>
+<td align="center" width="14%">
+<b>IntelliOps</b><br/>
+<sub>Full-Stack<br/>AIOps Suite</sub>
+</td>
+<td align="center" width="14%">
+<b>FinOps</b><br/>
+<sub>Cloud Cost<br/>Management</sub>
+</td>
+<td align="center" width="14%">
+<b>iObserve</b><br/>
+<sub>Full-Stack<br/>Observability</sub>
+</td>
+<td align="center" width="14%">
+<b>DCEM</b><br/>
+<sub>Data Center<br/>Energy Mgmt</sub>
+</td>
+<td align="center" width="14%">
+<b>Telco Obs.</b><br/>
+<sub>5G Network<br/>Observability</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
