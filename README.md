@@ -4,14 +4,14 @@
 
 <br/>
 
-<a href="https://abdul.dev">
+<a href="https://awasey.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%24100M%2B+ARR+managed+%E2%80%A2+3+USPTO+Patents+%E2%80%A2+50%2B+Releases;Group+PM+Director+%40+HCL+Software+%E2%80%A2+5+Ventures+Built" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/awbilgrami/"><img src="https://img.shields.io/badge/-Abdul_Wasey-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://abdul.dev"><img src="https://img.shields.io/badge/-abdul.dev-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/awbilgrami/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://awasey.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:a.wasey40@gmail.com"><img src="https://img.shields.io/badge/-a.wasey40@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=iabdulwasey&color=8B5CF6&style=flat-square&label=Visitors" />
 
