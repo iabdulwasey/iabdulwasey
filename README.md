@@ -262,13 +262,45 @@ A full-stack observability platform I'm designing that sits at the convergence o
 
 ## Enterprise Products I've Led
 
-![](https://img.shields.io/badge/MyXalytics-Data_Analytics-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/iControl-Business_Observability-3B82F6?style=for-the-badge)
-![](https://img.shields.io/badge/IntelliOps-AIOps_Suite-06B6D4?style=for-the-badge)
-![](https://img.shields.io/badge/MyXalytics_FinOps-Cloud_Cost_Mgmt-10B981?style=for-the-badge)
-![](https://img.shields.io/badge/iObserve-Full_Stack_Observability-F59E0B?style=for-the-badge)
-![](https://img.shields.io/badge/DCEM-Data_Center_Energy-EF4444?style=for-the-badge)
-![](https://img.shields.io/badge/Telco_Obs.-5G_Network-0A66C2?style=for-the-badge)
+<table>
+<tr>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-8B5CF6?style=flat-square" width="60" height="4" /><br/>
+<b>MyXalytics</b><br/>
+<sub>Data Analytics<br/>& Reporting</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-3B82F6?style=flat-square" width="60" height="4" /><br/>
+<b>iControl</b><br/>
+<sub>Business Flow<br/>Observability</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-06B6D4?style=flat-square" width="60" height="4" /><br/>
+<b>IntelliOps</b><br/>
+<sub>Full-Stack<br/>AIOps Suite</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-10B981?style=flat-square" width="60" height="4" /><br/>
+<b>FinOps</b><br/>
+<sub>Cloud Cost<br/>Management</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-F59E0B?style=flat-square" width="60" height="4" /><br/>
+<b>iObserve</b><br/>
+<sub>Full-Stack<br/>Observability</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-EF4444?style=flat-square" width="60" height="4" /><br/>
+<b>DCEM</b><br/>
+<sub>Data Center<br/>Energy Mgmt</sub>
+</td>
+<td align="center" width="14%">
+<img src="https://img.shields.io/badge/-0A66C2?style=flat-square" width="60" height="4" /><br/>
+<b>Telco Obs.</b><br/>
+<sub>5G Network<br/>Observability</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
