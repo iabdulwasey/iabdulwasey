@@ -10,10 +10,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/awbilgrami/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://awasey.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:a.wasey40@gmail.com"><img src="https://img.shields.io/badge/-a.wasey40@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=iabdulwasey&color=8B5CF6&style=flat-square&label=Visitors" />
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awbilgrami/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://awasey.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/-a.wasey40@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:a.wasey40@gmail.com)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=iabdulwasey&color=8B5CF6&style=flat-square&label=Visitors)
 
 </div>
 
@@ -385,7 +388,7 @@ believe:
 
 <a href="mailto:a.wasey40@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://abdul.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://awasey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/awbilgrami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
