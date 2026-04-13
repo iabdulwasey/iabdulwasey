@@ -326,11 +326,7 @@ believe:
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabdulwasey&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&ring_color=8B5CF6)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwasey&hide_border=true&background=00000000&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=666666)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=iabdulwasey&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=iabdulwasey&hide_border=true&background=00000000&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=999999)
 
 </div>
 
