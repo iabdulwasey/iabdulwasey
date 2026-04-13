@@ -224,28 +224,60 @@ Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming A
 
 ---
 
-<div align="center">
+## How I Think About AI Products
 
-## GitHub Activity
+**1. The patent test.** If your AI feature can't be described as a novel system — with clear inputs, processing logic, and differentiated outputs — it's a wrapper, not a product. I've filed 3 patents because I build engines, not integrations.
 
-<img src="https://github-readme-stats.vercel.app/api?username=iabdulwasey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&ring_color=8B5CF6" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iabdulwasey&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=666666" width="48%" />
+**2. Fallbacks are the product.** Every AI feature has a failure mode. I design the fallback first, not last. A rule engine isn't a consolation prize — it's what keeps your product running when the model is unavailable, slow, or wrong.
 
-<br/>
+**3. Metrics before magic.** "We added AI" is not a roadmap item. "$30M pipeline from a new AI engine that reduced manual compliance review from 4 hours to 12 minutes" is. Every AI feature I ship starts with the business case, not the model card.
 
-<img src="https://github-profile-trophy.vercel.app/?username=iabdulwasey&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+**4. Scale is a design choice, not a consequence.** Building for a Top 3 German bank (€20M+ daily transactions) forces different architectural decisions than building for a startup. I've done both — simultaneously. The thinking is transferable; the tradeoffs are not.
 
-</div>
+**5. Ship, then optimize.** Clarion went from idea to 30 users in 15 days. Yum Spices went from $5K to $100K ARR. Velocity isn't about cutting corners — it's about knowing which corners don't exist.
+
+---
+
+## What I'm Thinking About
+
+```yaml
+current:
+  - How agentic AI changes enterprise workflows (built it: Glaux's autonomous process mining)
+  - LLM evaluation frameworks that correlate with business value, not just accuracy
+  - When to use RAG vs fine-tuning vs prompt engineering (shipped all three)
+  - AI observability as a product category, not a feature (building Strix for this)
+
+exploring:
+  - Multi-agent orchestration for enterprise compliance (Glaux + regulatory engine)
+  - AI-native product management — specs that machines can verify (Clarion's MCP bridge)
+  - Sustainable AI: data center energy optimization (shipping DCEM at HCL)
+  - The gap between "AI can do this" and "users trust AI to do this"
+
+believe:
+  - The best AI PMs can read a model card AND present to a Fortune 500 CTO
+  - A working prototype changes the conversation faster than a 50-slide deck
+  - Enterprise scale and startup speed are not opposites — I prove this daily
+  - The PM who understands the data pipeline has an unfair advantage
+```
 
 ---
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake-dark.svg" />
-</picture>
+## GitHub Activity
+
+<a href="https://github.com/iabdulwasey">
+  <img src="https://github-readme-stats.vercel.app/api?username=iabdulwasey&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9&ring_color=8B5CF6" width="49%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/iabdulwasey">
+  <img src="https://streak-stats.demolab.com?user=iabdulwasey&theme=transparent&hide_border=true&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=666666" width="49%" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/iabdulwasey">
+  <img src="https://github-profile-trophy.vercel.app/?username=iabdulwasey&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies" />
+</a>
 
 </div>
 
@@ -259,9 +291,9 @@ Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming A
 
 <br/>
 
-**Building something at the intersection of AI & enterprise?**
+**Open to AI PM leadership roles across Enterprise SaaS · AIOps · Observability · FinTech · Regulated Industries**
 
-<a href="mailto:a.wasey40@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-8B5CF6?style=for-the-badge" /></a>
+<a href="mailto:a.wasey40@gmail.com"><img src="https://img.shields.io/badge/Let's_Connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://abdul.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 &nbsp;
