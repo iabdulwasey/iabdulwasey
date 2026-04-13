@@ -293,6 +293,18 @@ believe:
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/iabdulwasey/iabdulwasey/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
 <br/>
 
 > *"I don't just manage products — I build them. From $100M ARR enterprise suites to $100K ARR bootstrapped ventures. The best products emerge when you understand both the business problem and the technology deeply enough to make hard tradeoffs."*
