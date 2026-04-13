@@ -108,15 +108,67 @@ A full-loop PM platform I designed and built that demonstrates what serious AI p
 
 ---
 
+<table>
+<tr>
+<td width="58%">
+
+### Strix — Production-Grade APM + LLM Observability
+
+A full-stack observability platform I'm designing that sits at the convergence of two massive markets — APM ($5.1B) and AI monitoring ($7.29B, 40.5% CAGR). Every architectural decision reflects a core insight: LLM workloads need observability that's built native, not bolted on.
+
+**Why it showcases systems-level PM thinking:**
+- Designed a **four-layer architecture** — Collection (Go agent with eBPF) → Ingestion (NestJS + Fastify at 45K+ RPS) → Storage (hybrid: TimescaleDB for metrics, ClickHouse for traces) → Presentation (React 18 dashboards)
+- Built the industry's **first comprehensive LLM observability suite** — prompt registry with versioning, 6 automated evaluation scorers, RAG performance analytics, model A/B comparison
+- Implemented **on-premise-first deployment** (Docker + Kubernetes Helm) — because enterprise customers with data residency requirements can't use cloud-only APMs
+- Designed **18 features no competitor offers** — including custom evaluator VM sandbox, annotation queues, fine-tuning data export, composite SLOs
+
+</td>
+<td width="42%" align="center">
+
+<br/>
+
+**→ Strix on GitHub**
+
+<br/>
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go_(eBPF)-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+<br/>
+
+![20+ Modules](https://img.shields.io/badge/20+_Modules-06b6d4?style=flat-square)
+![95+ Integrations](https://img.shields.io/badge/95+_Integrations-3b82f6?style=flat-square)
+![18 Unique Features](https://img.shields.io/badge/18_Unique_Features-8b5cf6?style=flat-square)
+![5 Cloud Providers](https://img.shields.io/badge/5_Cloud_Providers-10b981?style=flat-square)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+**What's inside the observability stack:**
+
+| Layer | What it does | Why it matters |
+|---|---|---|
+| Metrics (TimescaleDB) | Time-series storage with continuous aggregates, multi-tier rollup (raw → 1m → 5m → 1h → 1d) | Hot queries need sub-second response; cold analytics need cheap storage — one DB can't do both |
+| Traces (ClickHouse) | Distributed tracing with flame graphs, service maps, tail-based sampling | Columnar OLAP gives 200x cheaper storage than row-based alternatives |
+| LLM Prompt Registry | Versioned prompts with LCS diff viewer, playground for testing, annotation queues | Prompt changes break production silently — version control makes regressions detectable |
+| LLM Evaluation | 6 automated scorers (factuality, relevance, toxicity, PII, format, injection detection) | "Is the AI output good?" needs a framework, not a vibe check |
+| RAG Analytics | Embedding drift detection, retrieval relevance scoring, chunk quality analysis | RAG pipelines degrade silently — you need observability into the retrieval layer, not just the generation |
+| Model A/B Comparison | Side-by-side evaluation with weighted verdict across cost/latency/quality | Switching models is a product decision, not an engineering one — PMs need data, not opinions |
+| Agent Monitoring | Loop detection, tool-use tracking, multi-step workflow visualization | Agentic AI can get stuck in infinite loops — you need circuit breakers with visibility |
+
+---
+
 ### Other Ventures
 
 **![](https://img.shields.io/badge/LIVE-10b981?style=flat-square) [Yum Spices](https://yumspices.co)** — $5K → $100K ARR (80% CAGR). Full-stack e-commerce. 30-member all-women workforce. Razorpay + WhatsApp Business.
 `React 18` `Express.js` `MongoDB` `Razorpay` `Socket.IO`
 
-**![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Strix** — APM + LLM Observability. 20+ modules, 95+ integrations. Industry's first prompt registry, eval frameworks, RAG analytics.
-`NestJS` `TimescaleDB` `ClickHouse` `Go/eBPF` `Kubernetes`
-
-**![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Glaux** — World's first multi-LLM process mining (Claude/GPT/Ollama). Regulatory compliance engine. 100% structural coverage.
+**![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Glaux** — World's first multi-LLM process mining (Claude/GPT/Ollama). Regulatory compliance engine. 100% structural coverage. Ex-COO HP Enterprise as advisor.
 `Python` `FastAPI` `React Flow` `PostgreSQL` `Claude AI`
 
 **![](https://img.shields.io/badge/BETA-f59e0b?style=flat-square) Ultracode** — AI app builder. Natural language → production web apps. Monaco Editor + real container execution (Daytona). 90%+ accuracy.
