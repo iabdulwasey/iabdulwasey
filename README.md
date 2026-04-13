@@ -19,21 +19,21 @@
 
 ---
 
-## `> whoami`
+## Who I Am
 
-```typescript
-const abdul = {
-  role: "Group Manager (Associate Director) — Product Management & AI R&D Lead",
-  company: "HCL Software ($1.4B division of HCL Technologies $14B)",
-  experience: "8+ years shipping enterprise products across 4 continents",
-  superpowers: [
-    "Turning market signals into $100M+ ARR product suites",
-    "Filing patents while managing P&L (3 USPTO patents)",
-    "Building $100K ARR businesses on the side with 30-member teams",
-    "Scoring 770 on GMAT (99th percentile) because why not",
-  ],
-  philosophy: "Enterprise rigor + startup agility. I don't just manage products — I build them.",
-};
+I'm a **Product Leader** who builds things. Not just roadmaps and PRDs — actual platforms, with real AI wired in, patents filed, and revenue generated.
+
+**8+ years** in enterprise tech — currently **Group Manager (Associate Director) & AI R&D Lead at HCL Software** ($1.4B division of $14B HCL Technologies), orchestrating product strategy across **4 continents**. Previously shipped at a **Stanford X-backed startup**, built a **PM function from scratch** at an Ed-Tech company, and transformed operations at **Fortune 500 banks**.
+
+My edge is that I sit at an intersection almost no one occupies: I can file a **USPTO patent** for an AI engine, present its business case to a **Fortune 500 CTO**, ship 50+ releases across **globally distributed teams**, AND bootstrap a **$100K ARR spice business** with a 30-member all-women workforce — simultaneously.
+
+```
+What I care about most:
+├── How do you turn AI capability into $30M+ pipeline (not just a demo)?
+├── When should the AI decide, and when should a human stay in the loop?
+├── How do you build products that work for a Top 3 German Bank AND a D2C startup?
+├── What does product-market fit look like when the model is probabilistic?
+└── How do you scale across 4 continents without losing velocity?
 ```
 
 ---
@@ -51,77 +51,134 @@ const abdul = {
 
 ---
 
-## Ventures I've Built
+## What I Ship
 
-### ![](https://img.shields.io/badge/LIVE-10b981?style=flat-square) Clarion — AI-Native PM Platform
+<table>
+<tr>
+<td width="58%">
 
-> The intelligent layer between customer needs and code.
+### [Clarion](https://getclarion.in) — AI-Native Product Management
 
-**230+ features** · **30 users in 15 days** · **12 modules** · **192 API routes**
+A full-loop PM platform I designed and built that demonstrates what serious AI product work looks like when you close every gap in the workflow. Every architectural decision reflects real PM thinking — where AI takes the wheel, where humans must stay in the loop, and how you make product discovery fast without making it shallow.
 
-Signals from 13+ sources → AI synthesis → validation campaigns → dual-spec generation (human PRDs + machine specs for Cursor/Claude Code). The only platform closing the full loop.
+**Why it showcases AI PM thinking:**
+- Designed a **13-source signal ingestion engine** — because customer feedback lives in Zendesk, Slack, Intercom, Gong, and 9 other tools simultaneously
+- Built a **7-stage AI processing pipeline** (classification, sentiment, themes, embeddings, opportunity clustering, validation, spec generation) with confidence scoring at every stage
+- Implemented **dual-spec generation** — human-readable PRDs AND machine-verifiable specs that Cursor/Claude Code can consume via MCP server
+- Enforced **validation campaigns** before any spec gets approved — AI-drafted outreach, surveys, and concept testing with real customers
 
-`Next.js 15` `TypeScript` `Prisma` `PostgreSQL` `pgvector` `Claude AI` `BullMQ` `Redis`
+</td>
+<td width="42%" align="center">
 
-[![](https://img.shields.io/badge/getclarion.in-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://getclarion.in)
+<br/>
 
----
+**[→ Clarion on GitHub](https://github.com/iabdulwasey)**
 
-### ![](https://img.shields.io/badge/LIVE-10b981?style=flat-square) Yum Spices — E-Commerce ($100K ARR)
+<br/>
 
-> Bootstrapped D2C spice venture with 30-member all-women workforce.
+![Next.js 15](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-**$5K → $100K ARR** · **80% CAGR** · **5,000+ units/mo** · **20+ farms**
+<br/>
 
-Full-stack marketplace with Razorpay payments (card/UPI/COD), WhatsApp Business integration, real-time tracking, admin dashboard with RBAC security.
+![230+ Features](https://img.shields.io/badge/230+_Features-8b5cf6?style=flat-square)
+![12 Modules](https://img.shields.io/badge/12_Modules-3b82f6?style=flat-square)
+![192 API Routes](https://img.shields.io/badge/192_API_Routes-10b981?style=flat-square)
+![30 Users in 15 Days](https://img.shields.io/badge/30_Users_in_15_Days-f59e0b?style=flat-square)
 
-`React 18` `Express.js` `MongoDB` `Razorpay` `Socket.IO` `WhatsApp API`
+<br/>
 
-[![](https://img.shields.io/badge/yumspices.co-ef4444?style=flat-square&logo=shopify&logoColor=white)](https://yumspices.co)
+</td>
+</tr>
+</table>
 
----
+**What's inside the AI engine:**
 
-### ![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Strix — APM + LLM Observability
-
-> Full observability platform with the industry's first comprehensive LLM monitoring.
-
-**20+ modules** · **95+ integrations** · **18 unique features** · **5 clouds**
-
-Metrics (TimescaleDB) + Traces (ClickHouse) + Logs + RUM + Synthetic monitoring. Plus: prompt registry, eval frameworks, RAG analytics, model A/B comparison.
-
-`NestJS` `Fastify` `TimescaleDB` `ClickHouse` `Go/eBPF` `React 18` `Docker` `K8s`
-
----
-
-### ![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Glaux — AI Process Mining
-
-> World's first multi-LLM process mining + regulatory compliance engine.
-
-**3 LLMs** (Claude/GPT/Ollama) · **7 process types** · **100% structural coverage**
-
-Statistics-first engine with smart compression. Regulatory document analysis with controls extraction. Pre-built connectors for SAP, Oracle, Salesforce.
-
-`React 18` `Python` `FastAPI` `React Flow` `PostgreSQL` `Claude AI` `GPT` `Ollama`
-
----
-
-### ![](https://img.shields.io/badge/BETA-f59e0b?style=flat-square) Ultracode — AI App Builder
-
-> Natural language → production-ready web apps. Full IDE in-browser.
-
-**90%+ accuracy** · **<2s preview** · **One-click deploy** · **6 templates**
-
-Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming AI code generation + WebSocket live sync.
-
-`React 18` `Monaco Editor` `Supabase` `Claude AI` `GPT-4` `Daytona` `WebSocket`
+| Module | What it does | Why it matters |
+|---|---|---|
+| Signal Collector | Ingests from 13+ sources (Zendesk, Intercom, Gong, Slack, CSV, webhooks) | No PM tool does this — signals are scattered across 10+ tools |
+| Intelligence Engine | Classification, sentiment, theme extraction, embeddings (pgvector) | Raw feedback becomes structured, searchable, prioritized |
+| Opportunity Canvas | "What should we build?" with RAG over your entire signal corpus | Evidence-based prioritization, not gut feeling |
+| Spec Studio | Dual-format generation — human PRDs + machine SPEC.md | Coding agents (Cursor, Claude Code) can consume specs directly |
+| Agent Bridge | MCP server exposing 7 tools for AI coding assistants | The bridge between product intent and code execution |
+| Validation Engine | AI-drafted email outreach, surveys, concept testing | Prove demand before building — the hardest PM discipline |
+| Outcomes Tracker | Feature-to-signal linking, ROI measurement, scoring calibration | Close the loop — did what we built actually solve the problem? |
 
 ---
 
-### ![](https://img.shields.io/badge/ONGOING-8b5cf6?style=flat-square) Sir Syed Educational Society
+### Other Ventures
 
-> Sustainable livelihoods and community empowerment.
+**![](https://img.shields.io/badge/LIVE-10b981?style=flat-square) [Yum Spices](https://yumspices.co)** — $5K → $100K ARR (80% CAGR). Full-stack e-commerce. 30-member all-women workforce. Razorpay + WhatsApp Business.
+`React 18` `Express.js` `MongoDB` `Razorpay` `Socket.IO`
 
-**7,000+ children educated** · **1,000+ adults skilled** · **800+ employed**
+**![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Strix** — APM + LLM Observability. 20+ modules, 95+ integrations. Industry's first prompt registry, eval frameworks, RAG analytics.
+`NestJS` `TimescaleDB` `ClickHouse` `Go/eBPF` `Kubernetes`
+
+**![](https://img.shields.io/badge/BUILDING-3b82f6?style=flat-square) Glaux** — World's first multi-LLM process mining (Claude/GPT/Ollama). Regulatory compliance engine. 100% structural coverage.
+`Python` `FastAPI` `React Flow` `PostgreSQL` `Claude AI`
+
+**![](https://img.shields.io/badge/BETA-f59e0b?style=flat-square) Ultracode** — AI app builder. Natural language → production web apps. Monaco Editor + real container execution (Daytona). 90%+ accuracy.
+`React 18` `Supabase` `Claude AI` `GPT-4` `WebSocket`
+
+---
+
+## AI Product Toolkit
+
+<div align="center">
+
+**Core AI / ML Depth**
+
+![LLMs](https://img.shields.io/badge/LLMs-Claude·GPT·Ollama-06b6d4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-pgvector·embeddings-06b6d4?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-38_production_prompts-06b6d4?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-MCP·multi--step_workflows-06b6d4?style=flat-square)
+![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-confidence_scoring·calibration-06b6d4?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible_AI-human--in--the--loop_design-06b6d4?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning_vs_RAG-tradeoff_analysis-06b6d4?style=flat-square)
+![LLM Observability](https://img.shields.io/badge/LLM_Observability-prompt_registry·evals-06b6d4?style=flat-square)
+
+**Product & Strategy**
+
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Aha.io](https://img.shields.io/badge/Aha.io-0073CF?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Data & Experimentation**
+
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-28%25_adoption_lift-f59e0b?style=flat-square)
+![North Star](https://img.shields.io/badge/North_Star_Framework-30%25_ARR_growth-f59e0b?style=flat-square)
+![RICE](https://img.shields.io/badge/RICE_Prioritization-42%25_delivery_improvement-f59e0b?style=flat-square)
+![Customer Advisory](https://img.shields.io/badge/Customer_Advisory-200+_interviews-f59e0b?style=flat-square)
+![Gartner/Forrester](https://img.shields.io/badge/Analyst_Relations-Gartner·Forrester·IDC-f59e0b?style=flat-square)
+
+**Technical (I Build)**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_18-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+**Domain Depth**
+
+![Enterprise SaaS](https://img.shields.io/badge/Enterprise_SaaS-$100M+_ARR-8b5cf6?style=flat-square)
+![AIOps](https://img.shields.io/badge/AIOps-full_stack_observability-8b5cf6?style=flat-square)
+![FinTech](https://img.shields.io/badge/FinTech-F500_banks·compliance-8b5cf6?style=flat-square)
+![Process Mining](https://img.shields.io/badge/Process_Mining-multi--LLM·regulatory-8b5cf6?style=flat-square)
+![E-Commerce](https://img.shields.io/badge/E--Commerce-D2C·payments·logistics-8b5cf6?style=flat-square)
+![Sustainability](https://img.shields.io/badge/Sustainability-data_center_energy-8b5cf6?style=flat-square)
+
+</div>
 
 ---
 
@@ -161,11 +218,7 @@ Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming A
 
 ---
 
-<div align="center">
-
 ## Awards & Recognition
-
-</div>
 
 | Year | Award | Organization |
 |:----:|:------|:------------|
@@ -179,51 +232,6 @@ Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming A
 
 ---
 
-<div align="center">
-
-## Tech DNA
-
-**AI & LLM**
-
-![](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Ollama-000000?style=flat-square)
-![](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
-![](https://img.shields.io/badge/Agentic_AI-3B82F6?style=flat-square)
-![](https://img.shields.io/badge/Prompt_Eng-10B981?style=flat-square)
-![](https://img.shields.io/badge/MCP-F59E0B?style=flat-square)
-
-**Frontend**
-
-![](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend & Data**
-
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-
-**Infrastructure & PM**
-
-![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-
-</div>
-
----
-
 ## How I Think About AI Products
 
 **1. The patent test.** If your AI feature can't be described as a novel system — with clear inputs, processing logic, and differentiated outputs — it's a wrapper, not a product. I've filed 3 patents because I build engines, not integrations.
@@ -232,7 +240,7 @@ Monaco Editor + Daytona Cloud Sandboxes (real container execution) + streaming A
 
 **3. Metrics before magic.** "We added AI" is not a roadmap item. "$30M pipeline from a new AI engine that reduced manual compliance review from 4 hours to 12 minutes" is. Every AI feature I ship starts with the business case, not the model card.
 
-**4. Scale is a design choice, not a consequence.** Building for a Top 3 German bank (€20M+ daily transactions) forces different architectural decisions than building for a startup. I've done both — simultaneously. The thinking is transferable; the tradeoffs are not.
+**4. Scale is a design choice, not a consequence.** Building for a Top 3 German bank (€20M+ daily transactions) forces different architectural decisions than building for a startup. I've done both — simultaneously.
 
 **5. Ship, then optimize.** Clarion went from idea to 30 users in 15 days. Yum Spices went from $5K to $100K ARR. Velocity isn't about cutting corners — it's about knowing which corners don't exist.
 
