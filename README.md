@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://awasey.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&random=false&width=700&height=45&lines=%24100M%2B+ARR+managed+%E2%80%A2+3+USPTO+Patents+%E2%80%A2+50%2B+Releases;Group+PM+Director+%40+HCL+Software+%E2%80%A2+5+Ventures+Built" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&repeat=true&random=false&width=820&height=50&lines=%24100M%2B+ARR+managed+%E2%80%A2+4+USPTO+Patents+%E2%80%A2+50%2B+Releases;Group+PM+Director+%40+HCL+Software+%E2%80%A2+5+Ventures+Built" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ I'm a **Product Leader** who builds things. Not just roadmaps and PRDs — actua
 
 **8+ years** in enterprise tech — currently **Group Manager (Associate Director) & AI R&D Lead at HCL Software** ($1.4B division of $14B HCL Technologies), orchestrating product strategy across **4 continents**. Previously shipped at a **Stanford X-backed startup**, built a **PM function from scratch** at an Ed-Tech company, and transformed operations at **Fortune 500 banks**.
 
-B.Tech in Computer Science, **GMAT 770** (99th percentile — highest achievable score), admitted to **UC Berkeley Haas**, **NYU Stern**, **Chicago Booth**, and interviewed at **Harvard Business School**.
+B.Tech in Computer Science, **GMAT 770** (99th percentile — highest achievable score).
 
 My edge is that I sit at an intersection almost no one occupies: I can file a **USPTO patent** for an AI engine, present its business case to a **Fortune 500 CTO**, ship 50+ releases across **globally distributed teams**, AND bootstrap a **$100K ARR spice business** with a 30-member all-women workforce — simultaneously.
 
@@ -47,7 +47,7 @@ What I care about most:
 
 ## Impact at a Glance
 
-| $100M+ | $75M+ | 50+ | 3 | 770 | 7,000+ |
+| $100M+ | $75M+ | 50+ | 4 | 770 | 7,000+ |
 |:------:|:-----:|:---:|:-:|:---:|:------:|
 | **ARR Managed** | **Leakage Prevented** | **Releases Shipped** | **USPTO Patents** | **GMAT Score** | **Children Educated** |
 | AI/ML & Data Suite | F500 US Bank (550% ROI) | 6 Platforms Launched | AI Engines Invented | 99th Percentile | Sir Syed Society |
@@ -58,7 +58,7 @@ What I care about most:
 
 ## How I Think About AI Products
 
-**1. The patent test.** If your AI feature can't be described as a novel system — with clear inputs, processing logic, and differentiated outputs — it's a wrapper, not a product. I've filed 3 patents because I build engines, not integrations.
+**1. The patent test.** If your AI feature can't be described as a novel system — with clear inputs, processing logic, and differentiated outputs — it's a wrapper, not a product. I've filed 4 patents because I build engines, not integrations.
 
 **2. Fallbacks are the product.** Every AI feature has a failure mode. I design the fallback first, not last. A rule engine isn't a consolation prize — it's what keeps your product running when the model is unavailable, slow, or wrong.
 
@@ -105,7 +105,7 @@ believe:
 A full-loop PM platform I designed and built that demonstrates what serious AI product work looks like when you close every gap in the workflow. Every architectural decision reflects real PM thinking — where AI takes the wheel, where humans must stay in the loop, and how you make product discovery fast without making it shallow.
 
 **Why it showcases AI PM thinking:**
-- Designed a **13-source signal ingestion engine** — because customer feedback lives in Zendesk, Slack, Intercom, Gong, and 9 other tools simultaneously
+- Designed a **20-source signal ingestion engine** — because customer feedback lives in Zendesk, Slack, Intercom, Gong, and 16 other tools simultaneously
 - Built a **7-stage AI processing pipeline** (classification, sentiment, themes, embeddings, opportunity clustering, validation, spec generation) with confidence scoring at every stage
 - Implemented **dual-spec generation** — human-readable PRDs AND machine-verifiable specs that Cursor/Claude Code can consume via MCP server
 - Enforced **validation campaigns** before any spec gets approved — AI-drafted outreach, surveys, and concept testing with real customers
@@ -141,7 +141,7 @@ A full-loop PM platform I designed and built that demonstrates what serious AI p
 
 | Module | What it does | Why it matters |
 |---|---|---|
-| Signal Collector | Ingests from 13+ sources (Zendesk, Intercom, Gong, Slack, CSV, webhooks) | No PM tool does this — signals are scattered across 10+ tools |
+| Signal Collector | Ingests from 20+ sources (Zendesk, Intercom, Gong, Slack, CSV, webhooks) | No PM tool does this — signals are scattered across 10+ tools |
 | Intelligence Engine | Classification, sentiment, theme extraction, embeddings (pgvector) | Raw feedback becomes structured, searchable, prioritized |
 | Opportunity Canvas | "What should we build?" with RAG over your entire signal corpus | Evidence-based prioritization, not gut feeling |
 | Spec Studio | Dual-format generation — human PRDs + machine SPEC.md | Coding agents (Cursor, Claude Code) can consume specs directly |
@@ -281,7 +281,7 @@ A full-stack observability platform I'm designing that sits at the convergence o
 
 ```
 2024 ━━ GROUP MANAGER (ASSOC. DIRECTOR) ━ AI R&D Lead ━ HCL Software
-        3 Patents · $25M Pipeline · Stevie Award · Google/Anthropic/Cisco · 4 Continents
+        4 Patents · $25M Pipeline · Stevie Award · Google/Anthropic/Cisco · 4 Continents
 
 2022 ━━ SENIOR MANAGER — PM ━ HCL Software ($1.4B)
         $100M+ ARR · 50+ Releases · World's 1st Business Process AI · F500 Clients
@@ -350,7 +350,7 @@ A full-stack observability platform I'm designing that sits at the convergence o
 | 2025 | **2Good Award** — Exceptional Performance | HCL Software |
 | 2024 | **AI Innovation Award** — Process Mining & Regulatory AI | HCL Software |
 | 2024 | **Silver Stevie Award** — AI Product Excellence | International Business Awards |
-| 2024 | **3 USPTO Patents Filed** | U.S. Patent Office |
+| 2024 | **4 USPTO Patents Filed** | U.S. Patent Office |
 | 2022-23 | **Distinguished Performance** (2x Consecutive) | HCL Software |
 | 2020 | **GMAT 770** (99th Percentile) | GMAC |
 
