@@ -26,7 +26,7 @@
 
 I'm a **Product Leader** who builds things. Not just roadmaps and PRDs — actual platforms, with real AI wired in, patents filed, and revenue generated.
 
-**8+ years** in enterprise tech — currently **Group Manager (Associate Director) & AI R&D Lead at HCL Software** ($1.4B division of $14B HCL Technologies), orchestrating product strategy across **4 continents**. Previously shipped at a **Stanford X-backed startup**, built a **PM function from scratch** at an Ed-Tech company, and transformed operations at **Fortune 500 banks**.
+**9+ years** in enterprise tech — currently **Group Manager (Associate Director) & AI R&D Lead at HCL Software** ($1.4B division of $14B HCL Technologies), orchestrating product strategy across **4 continents**. Previously shipped at a **Stanford X-backed startup**, built a **PM function from scratch** at an Ed-Tech company, and transformed operations at **Fortune 500 banks**.
 
 B.Tech in Computer Science, **GMAT 770** (99th percentile — highest achievable score).
 
